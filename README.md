@@ -7,7 +7,7 @@
 
 📍 Greater Noida 
 📧 bhumikasagar972@gmail.com  
-📞 7417497401  
+
 
 ---
 
