@@ -1,54 +1,65 @@
-# 👋 Hey, I'm Bhumika Sagar
+# 👋 Hey, I'm Bhumika Sagar  
 
-📍 India  
+<p align="center">
+  <img src="https://img.shields.io/badge/Student-CS-blue" />
+  <img src="https://img.shields.io/badge/Learning-Development-green" />
+</p>
+
+📍 Greater Noida 
 📧 bhumikasagar972@gmail.com  
 📞 7417497401  
 
 ---
 
-## 💡 About Me
-I'm a Computer Science student focused on building strong fundamentals in software development.  
-I enjoy learning new technologies, solving problems, and building real-world projects.
+## 💡 About Me  
+💻 Computer Science student  
+🚀 Focused on building real-world projects  
+🧠 Learning by doing, not just watching  
 
 ---
 
-## 🚀 Skills
+## 🚀 Skills  
 
-### 💻 Programming Languages
-- C  
-- C++  
-- Java  
-- Python  
+### 💻 Programming  
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
 
-### 🌐 Web Development
-- HTML  
-- CSS  
-- JavaScript (Basic)  
+### 🌐 Web Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-### 🎨 Design Tools
-- Figma  
-- Blender  
-- Photoshop  
-
----
-
-## 📚 Currently Learning
-- Data Structures & Algorithms  
-- Frontend Development  
-- Project Building  
+### 🎨 Design Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,blender,photoshop" />
+</p>
 
 ---
 
-## 🎯 Goal
-To build practical projects and become a skilled developer with strong problem-solving ability.
+## 📚 Currently Learning  
+📌 Data Structures & Algorithms  
+📌 Frontend Development  
+📌 Building Projects  
 
 ---
 
-## 🔗 Connect With Me
-- LinkedIn: https://linkedin.com/in/your-profile  
-- GitHub: https://github.com/your-username  
+## 🎯 Goal  
+Become a strong developer by building useful and practical projects.
 
 ---
 
-## ✨ Quote
-> Learning by building, not just watching 🚀
+## 🔗 Connect With Me  
+<p>
+  <a href="https://linkedin.com/in/bhumika-singh-7a9820307">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
+  </a>
+  <a href="https://github.com/bhumika-sagar20">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github" />
+  </a>
+</p>
+
+---
+
+## ✨ Quote  
+> 🚀 Learning by building, not just watching
